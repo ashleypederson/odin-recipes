@@ -1,0 +1,1 @@
+In this project I will be creating a basic recipe website using the html skills I have learned in TOP. I will use multiple pages, create links between them, add ordered and unordered lists for ingredients and steps, and add images to the pages.
