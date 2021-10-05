@@ -1,0 +1,22 @@
+body {
+background-color: bisque;
+font-family: Helvetica, sans-serif;
+color: rgb(73, 26, 26); 
+}
+
+.title, .description {
+    text-align: center;
+}
+
+img {
+height: auto;
+   width: 400px; 
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+hr {
+    background-color: rgb(73, 26, 26); height: 1px; border: 0;
+}
+
