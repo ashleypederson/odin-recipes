@@ -24,6 +24,13 @@ hr {
     background-color: rgb(73, 26, 26); height: 1px; border: 0;
 }
 
-.link {
-    text-align: center;
+button {
+    background-color: rgb(73, 26, 26);
+    display: block;
+    margin: 0 auto;
+}
+
+a, a:hover, a:focus, a:active {
+    text-decoration: none;
+    color: bisque;
 }
